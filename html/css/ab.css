@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.a{
+    text-align: center;
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-size: 80px;
+    color: rgb(95,158,160);
+}
