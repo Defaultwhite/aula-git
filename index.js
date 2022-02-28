@@ -1,1 +1,3 @@
-console.log("Hello World")
+var ab = "Hello World" 
+
+console.log(ab)
