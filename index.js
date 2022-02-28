@@ -1,3 +1,4 @@
 var greetings = "Hello World";
+var name = "Victor"
 
-console.log(greetings);
+console.log(greetings, name);
